@@ -10,4 +10,7 @@
 3.tracking_realsense_wh_singleAR.py
 2のプログラムを1枚のマーカーでできるようにしたもの
 
+4.tracking_wh_laser.py
+車椅子追従をレーザで行うためのプログラム
+
 ----------------------
